@@ -39,6 +39,8 @@ Scripts don't add value to your product directly; instead, their primary purpose
 		* [Improved `go run`](#improved-go-run)
 	* [Resources](#resources)
 		* [Blog Posts](#blog-posts)
+		* [Discussions](#discussions)
+		* [Videos](#videos)
 
 ## Examples
 
