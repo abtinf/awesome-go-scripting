@@ -1,0 +1,6 @@
+examples/0-hello-world/app
+
+# General ignores
+*.swp
+.DS_Store
+Thumbs.db
