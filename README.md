@@ -69,7 +69,7 @@ Information about scripting in Go.
 
 ## Blog Posts
 
-* [Scripting with Go](https://bitfieldconsulting.com/posts/scripting) - An introoduction to using the `script` library.
+* [Scripting with Go](https://bitfieldconsulting.com/posts/scripting) - An introduction to using the `script` library.
 
 ## Discussions
 
