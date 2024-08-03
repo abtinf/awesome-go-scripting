@@ -75,3 +75,7 @@ Information about scripting in Go.
 
 * [Story: Writing Scripts with Go](https://gist.github.com/posener/73ffd326d88483df6b1cb66e8ed1e0bd) — Explores methods of making Go programs directly executable in the shell (i.e. `./main.go` instead of `go run main.go`) with a shebang.
 * [StackOverflow Go Shebang Discussion](https://stackoverflow.com/questions/7707178/whats-the-appropriate-go-shebang-line)
+
+## Videos
+
+* [Code Club: Script](https://www.youtube.com/watch?v=6S5EqzVwpEg) - A video introduction to the `script` library.
